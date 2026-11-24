@@ -21,6 +21,34 @@
 
 ---
 
+## 📖 About GLX Remote Quick
+
+### Help in one minute
+
+Sometimes it just has to be quick. GLX Remote Quick is a single file that you start without installing. You see your GLX ID and a password right away. Give both to the person who wants to help, click Allow, and they can see and control your screen.
+
+### A new password for every session
+
+GLX Remote Quick creates a new password at every start and after every session. Once the help is over, the old password is no longer valid. When you close the program, nothing keeps running in the background.
+
+### Everything important included
+
+With GLX Remote Quick too, an info window shows who is connected and for how long. You can chat, talk to your helper via your microphone, send files and screenshots and end the connection at any time.
+
+### Perfect for customers and spontaneous help
+
+Just send the download link. The other person does not have to set anything up and needs no administrator rights to install. For people you help more often, GLX Remote Client is the better choice because it is always ready and keeps its password.
+
+### Connection in the network and over the internet
+
+In the same network, for example at home or in the office, help works directly from PC to PC.
+
+Over the internet, when your helper is somewhere else, the connection runs through the GLX server.
+
+GLX Remote Quick reports new versions itself and then opens the download page.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Main window
